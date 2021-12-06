@@ -1,0 +1,23 @@
+{
+  "name": "PART",
+  "version": "1.0.0",
+  "description": "PART Photo",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gaziemrah/PART.git"
+  },
+  "keywords": [],
+  "author": "Gazi Emrah Artaç",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gaziemrah/PART/issues"
+  },
+  "homepage": "https://github.com/gaziemrah/PART#readme",
+  "devDependencies": {
+    "prettier": "2.5.1"
+  }
+}
